@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1668952355 source:c:\users\hp\onedrive\documents\universitynew\semseter 03\dca\code block\avl deletion\main.cpp
+	<iostream>
+	"AVL.h"
+
+1668848357 c:\users\hp\onedrive\documents\universitynew\semseter 03\dca\code block\avl deletion\include\avl.h
+	<iostream>
+
+1668952806 source:c:\users\hp\onedrive\documents\universitynew\semseter 03\dca\code block\avl deletion\src\avl.cpp
+	"AVL.h"
+	<iostream>
+
